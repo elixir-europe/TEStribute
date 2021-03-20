@@ -44,7 +44,7 @@ ip2geotools==0.1.5
 IP2Location==8.1.0
 isort==4.3.21
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsonpointer==2.0
 jsonref==0.2
 jsonschema==2.6.0
